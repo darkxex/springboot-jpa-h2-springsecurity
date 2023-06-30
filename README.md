@@ -36,4 +36,8 @@ Ya que estamos usando una base de datos temporal h2, si ejecutamos nuevamente la
 ![image](https://github.com/darkxex/springboot-jpa-h2-springsecurity/assets/17991404/39f1d0ba-87ae-4154-99a7-e1c8a82de59c)
 Un httpstatus bad request que nos indica un error, el cual se muestra como que ya se encuentra ese correo en uno en la base de datos.
 
+# Diagrama
+![image](https://github.com/darkxex/springboot-jpa-h2-springsecurity/assets/17991404/1936b7f7-b1bd-4250-ac25-22b5b6b5a50a)
+
+
 
