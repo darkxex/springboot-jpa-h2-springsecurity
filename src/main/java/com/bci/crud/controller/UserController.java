@@ -31,9 +31,4 @@ public class UserController {
         
 		return userService.createUser(user);
 	}
-
-	@GetMapping("/usuarios")
-	public List<User> getAllUsers() {
-		return userService.getUsers();
-	}
 }
